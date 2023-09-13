@@ -9,7 +9,7 @@ My name is Vishal and I am a full stack developer. I do a lot of things, and som
 
 * 🌍  I'm based in Ghaziabad, India
 * ✉️  You can contact me at [vishalsaini092@gmail.com](mailto:vishalsaini092@gmail.com)
-* 🚀  I'm currently working on [MyProject](https://vishal-the-nonpareil.github.io/MyPortfolio/)
+* 🚀  I'm currently working on [Portfolio](https://github.com/Vishal-The-Nonpareil/portfolio)
 * 🧠  I'm learning JavaScript and [React](https://react.dev/)
 * 🤝  I'm open to collaborating on intresting projects
 
